@@ -20,11 +20,11 @@ Learn everything you need to about the subject of this `eBook` project.
 
 Getting Started
 Getting Started With RSpec
-[ ] Installing RSpec
-[ ] Your First Spec
-[ ] Understanding Failure
-[ ] Sharing Setup (But Not Sandwiches)
-[ ] Your Turn
+[x] Installing RSpec
+[x] Your First Spec
+[x] Understanding Failure
+[x] Sharing Setup (But Not Sandwiches)
+[x] Your Turn
 From Writing Specs to Running Them excerpt
 [ ] Customizing Your Specs’ Output
 [ ] Identifying Slow Examples
