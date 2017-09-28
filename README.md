@@ -26,11 +26,11 @@ Getting Started With RSpec
 [x] Sharing Setup (But Not Sandwiches)
 [x] Your Turn
 From Writing Specs to Running Them excerpt
-[ ] Customizing Your Specs’ Output
-[ ] Identifying Slow Examples
-[ ] Running Just What You Need
-[ ] Marking Work in Progress
-[ ] Your Turn
+[x] Customizing Your Specs’ Output
+[x] Identifying Slow Examples
+[x] Running Just What You Need
+[x] Marking Work in Progress
+[x] Your Turn
 The RSpec Way
 [ ] What Your Specs Are Doing for You
 [ ] Comparing Costs and Benefits

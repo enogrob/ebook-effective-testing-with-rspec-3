@@ -7,6 +7,14 @@
 # Visit http://www.pragmaticprogrammer.com/titles/rspec3 for more book information.
 #---
 class Tea
+  attr_reader :flavor
+
+  def initialize
+    @flavor = :earl_grey
+  end
+  def temperature
+    250.0
+  end
 end
 
 RSpec.configure do |config|
