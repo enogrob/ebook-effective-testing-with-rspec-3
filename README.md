@@ -32,10 +32,10 @@ From Writing Specs to Running Them excerpt
 [x] Marking Work in Progress
 [x] Your Turn
 The RSpec Way
-[ ] What Your Specs Are Doing for You
-[ ] Comparing Costs and Benefits
-[ ] Different Types of Specs
-[ ] Guidelines
+[x] What Your Specs Are Doing for You
+[x] Comparing Costs and Benefits
+[x] Different Types of Specs
+[x] Guidelines
 Building an App With RSpec 3
 Starting On the Outside: Acceptance Specs
 [ ] First Steps
