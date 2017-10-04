@@ -38,12 +38,12 @@ The RSpec Way
 [x] Guidelines
 Building an App With RSpec 3
 Starting On the Outside: Acceptance Specs
-[ ] First Steps
-[ ] Deciding What to Test First
-[ ] Checking the Response
-[ ] Filling In the Response Body
-[ ] Querying the Data
-[ ] Saving Your Progress: Pending Specs
+[x] First Steps
+[x] Deciding What to Test First
+[x] Checking the Response
+[x] Filling In the Response Body
+[x] Querying the Data
+[x] Saving Your Progress: Pending Specs
 [ ] Your Turn
 Testing in Isolation: Unit Specs
 [ ] From Acceptance Specs to Unit Specs
